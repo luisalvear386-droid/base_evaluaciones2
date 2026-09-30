@@ -1,0 +1,17 @@
+# Archivos locales y temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Configuracion local de editores
+.vscode/
+.idea/
+
+# Variables de entorno y credenciales locales
+.env
+.env.*
+
+# Copias y respaldos
+*.bak
+*.old
